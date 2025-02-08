@@ -38,7 +38,7 @@ You can install Poetry by following the instructions in the [official documentat
 
 ## Running the Balloon Blast Game
 
-1. Start the FastAPI server:
+1. Start the Balloon Blast application:
 
     ```bash
     poetry run balloon-game
