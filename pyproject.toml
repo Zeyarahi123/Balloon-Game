@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "Balloon_game"
+version = "0.1.0"
+description = "A fun balloon game"
+authors = ["Razique Zeya <zeyarahi@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+# Add other dependencies here, for example:
+# flask = "^2.2.0"
+# requests = "^2.27.1"
+pygame = "^2.6.1"
+pyspark = "^3.5.3"
+
+[tool.poetry.dev-dependencies]
+# Add development dependencies here, for example:
+# pytest = "^7.1.2"
+
+
+[tool.poetry.scripts]
+balloon-game="balloon_game:main"
