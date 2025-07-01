@@ -4,8 +4,8 @@
 
 Before running the application, ensure that you have the following installed:
 
-- **Python**: Version `>=3.9` and `<4.0`
-- **Poetry**: Version `2.0.1`
+- **Python**: Version `>=3.10` and `<4.0`
+- **Poetry**: Version `>=2.0`
 
 You can install Poetry by following the instructions in the [official documentation](https://python-poetry.org/docs/#installation).
 
@@ -41,7 +41,7 @@ You can install Poetry by following the instructions in the [official documentat
 1. Start the Balloon Blast application:
 
     ```bash
-    poetry run balloon-game
+    balloon-game
     ```
 
 2. Once the game launches, follow these rules:
