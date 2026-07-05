@@ -4,7 +4,7 @@
 
 Before running the application, ensure that you have the following installed:
 
-- **Python**: Version `>=3.10` and `<4.0`
+- **Python**: Version `>=3.12` and `<4.0`
 - **Poetry**: Version `>=2.0`
 
 You can install Poetry by following the instructions in the [official documentation](https://python-poetry.org/docs/#installation).
